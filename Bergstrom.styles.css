@@ -84,15 +84,15 @@ table {
         background: #333; color: white;
     }
     night.dark-scheme {
-        backgroung: black; color: #ddd
+        background: black; color: #ddd
     }
 }
 @media (prefers-color-scheme: light) {
     .day.dark-scheme {
-        background: #white; color: #555;
+        background: white; color: #555;
     }
     night.dark-scheme {
-        backgroung: #eee; color: black
+        background: #eee; color: black
     }
 }
 /* CHANGE THE BODY'S BACKGROUND COLOR TO THE DARK GRAY IF THE USER PREFERS DARK MODE */
